@@ -12,6 +12,7 @@ selenium
 To install the dependencies:
 
 > pip3 install pandas
+
 > pip3 install selenium
 
 If some error occours with the chromedriver download it from here http://chromedriver.chromium.org/downloads
